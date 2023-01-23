@@ -1,1 +1,12 @@
 print("Hello this is demo master branch for git commands practise")
+
+// This are new changes added to master.
+
+/* Please follow the following commands for adding file to git repo
+
+git status
+git add <file name>
+git commit -m "Comments" 
+git push origin master  
+
+*/
